@@ -1,0 +1,17 @@
+﻿# 依赖
+node_modules/
+
+# 日志
+*.log
+npm-debug.log*
+
+# 环境变量（千万别提交）
+.env
+.env.local
+
+# 系统/编辑器
+.DS_Store
+Thumbs.db
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
